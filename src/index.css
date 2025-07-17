@@ -1,0 +1,9 @@
+@tailwind utilities;
+
+body {
+  min-height: 100vh;
+  background: #191919;
+  font-family: 'Google Sans';
+  margin: 0;
+  padding: 0;
+}
